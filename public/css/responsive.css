@@ -1,0 +1,119 @@
+@media screen and (max-width: 1600px) {
+    .navbar {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .menu {
+        gap: 0 30px;
+        margin-left: 30px;
+    }
+
+    .header {
+        border-bottom-left-radius: 100px;
+        border-bottom-right-radius: 100px;
+    }
+
+    .landing__title {
+        font-size: 70px;
+        line-height: 100px;
+    }
+
+    .services {
+        position: relative;
+    }
+
+    .explore {
+        margin-top: 100px;
+    }
+
+    .newsletter__image {
+        padding: 19px 70px 19px 0;
+    }
+
+    .footer {
+        padding: 103px 50px 60px 50px;
+        border-top-left-radius: 100px;
+        border-top-right-radius: 100px;
+    }
+
+    .footer__description {
+        margin-bottom: 40px;
+    }
+
+    .footer__links {
+        gap: 40px 20px;
+    }
+
+    .footer__apps {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .navbar {
+        font-size: 14px;
+    }
+
+    .newsletter {
+        flex-direction: column-reverse;
+        align-items: center;
+        padding: 16px;
+    }
+
+    .newsletter__image {
+        padding: 0;
+        margin-bottom: 38px;
+    }
+
+    .newsletter__content {
+        text-align: center;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .menu {
+        display: none;
+    }
+
+    .header-links__mobile {
+        display: flex;
+    }
+
+    .header-links {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 576px) {
+    .footer {
+        padding: 100px 0px 40px 0px;
+    }
+
+    .footer__apps-link {
+        width: 146px !important;
+    }
+
+    .cards {
+        gap: 20px 0px;
+    }
+    
+    .landing__title {
+        font-size: 45px;
+        line-height: 61px;
+    }
+
+    .explore__title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .footer__scroll-top-btn {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+}
