@@ -10,6 +10,6 @@ This is a simple and responsive travel landing page built with **HTML**, **CSS**
 - Ideal as a starter template for travel agencies, blogs, or destination promotions
 
 # Demo 
-[Demo](https://golmahdi29.github.io/Triplora/)
+[Click here 🔴](https://golmahdi29.github.io/Triplora/)
 
 ![Home Page](./public/github/screencapture-file-C-Users-user-Desktop-projects-tr-Triplora-main-index-html-2026-10-31-22_03_52.png)
